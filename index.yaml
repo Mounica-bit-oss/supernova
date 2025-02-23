@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ulkatel:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-02-23T19:08:18.26223583Z"
+    description: Helm chart for Kubernetes
+    digest: 67af9ed7af8724de08086bcafa0246ff17137a80c4cf9ada2dadd19e6047f4de
+    name: ulkatel
+    type: application
+    urls:
+    - ulkatel-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-23T19:08:18.261734658Z"
